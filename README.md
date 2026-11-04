@@ -1,5 +1,5 @@
 # Yuri Navas Moreira
-> Estudante de Ciência da Computação
+> Estudante de Ciência da Computação | Criação de Sites com IA, Design e Marketing
  
 ---
  
@@ -11,15 +11,28 @@
 ---
  
 ### 👨‍💻 Sobre
-Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo, com foco em desenvolver soluções digitais que unem lógica, design e experiência do usuário.
+Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo e meu foco é a criação de sites e landing pages com o apoio de Inteligência Artificial, unindo design, conteúdo e estratégia em páginas modernas e confortáveis de ler.
 
-Tenho interesse em UX/UI Design e utilizo ferramentas como Figma e Adobe Photoshop para criar interfaces intuitivas e visualmente consistentes. Paralelamente, desenvolvo minha base em programação com Python, buscando integrar funcionalidade e usabilidade em projetos reais.
+No dia a dia, uso ferramentas como Claude e ChatGPT para acelerar a estrutura, o texto e o código das páginas, e o Figma para desenhar interfaces consistentes antes de colocá-las no ar. A IA entra como parceira de produção; as decisões de layout, hierarquia visual e experiência do usuário continuam sendo cuidadosamente pensadas.
 
-Minha experiência prévia com design e marketing me permite pensar além da interface, criando soluções centradas no usuário e orientadas a resultados.
+Minha experiência com design e marketing me permite ir além da aparência: crio páginas centradas no usuário, com mensagem clara e orientadas a resultados e conversão. Paralelamente, desenvolvo minha base em programação com Python e, como próximo passo, quero me aprofundar em Cibersegurança para construir sites cada vez mais seguros.
  
+---
+
+### 🎯 Áreas de Interesse
+- **Criação de sites com IA:** landing pages e sites institucionais produzidos com apoio de ferramentas de IA
+- **Design de interfaces (UX/UI):** layouts modernos, legíveis e com boa hierarquia visual
+- **Marketing digital:** copywriting, posicionamento de marca e páginas focadas em conversão
+- **Cibersegurança (em aprendizado):** boas práticas de segurança para aplicações web
+
 ---
  
 ### 🛠 Minhas Ferramentas Favoritas
+
+#### 🤖 Inteligência Artificial
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 #### 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -29,9 +42,8 @@ Minha experiência prévia com design e marketing me permite pensar além da int
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### 🤖 Inteligência Artificial
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+#### 🔐 Em Aprendizado
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
  
