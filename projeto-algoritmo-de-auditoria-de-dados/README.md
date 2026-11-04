@@ -20,7 +20,3 @@ Como parte da investigação prévia ao código, o sistema aborda:
 2. **Quarentena:** Ativada se a média das vendas ultrapassar o limite de segurança.
 3. **Revisão Manual:** Sugerida se qualquer venda individual for 5x maior que a média calculada.
 
-## 🔧 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
