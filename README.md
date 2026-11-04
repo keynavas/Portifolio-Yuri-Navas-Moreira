@@ -1,5 +1,5 @@
 # Yuri Navas Moreira
-> Estudante de Ciência da Computação | Criação de Sites com IA, Design e Marketing
+> Formado em Marketing | Estudante de Ciência da Computação | Criação de Sites com IA
  
 ---
  
@@ -11,18 +11,18 @@
 ---
  
 ### 👨‍💻 Sobre
-Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo e meu foco é a criação de sites e landing pages com o apoio de Inteligência Artificial, unindo design, conteúdo e estratégia em páginas modernas e confortáveis de ler.
+Sou formado em Marketing e atualmente estudo Ciência da Computação na Universidade Cidade de São Paulo. Meu foco é a criação de sites e landing pages com o apoio de Inteligência Artificial, unindo design, conteúdo e estratégia em páginas modernas e confortáveis de ler.
 
 No dia a dia, uso ferramentas como Claude e ChatGPT para acelerar a estrutura, o texto e o código das páginas, e o Figma para desenhar interfaces consistentes antes de colocá-las no ar. A IA entra como parceira de produção; as decisões de layout, hierarquia visual e experiência do usuário continuam sendo cuidadosamente pensadas.
 
-Minha experiência com design e marketing me permite ir além da aparência: crio páginas centradas no usuário, com mensagem clara e orientadas a resultados e conversão. Paralelamente, desenvolvo minha base em programação com Python e, como próximo passo, quero me aprofundar em Cibersegurança para construir sites cada vez mais seguros.
+A formação em Marketing, somada à minha experiência com design, me permite ir além da aparência: crio páginas centradas no usuário, com mensagem clara e orientadas a resultados e conversão. Paralelamente, desenvolvo minha base em programação com Python e, como próximo passo, quero me aprofundar em Cibersegurança para construir sites cada vez mais seguros.
  
 ---
 
 ### 🎯 Áreas de Interesse
 - **Criação de sites com IA:** landing pages e sites institucionais produzidos com apoio de ferramentas de IA
 - **Design de interfaces (UX/UI):** layouts modernos, legíveis e com boa hierarquia visual
-- **Marketing digital:** copywriting, posicionamento de marca e páginas focadas em conversão
+- **Marketing digital (formação):** copywriting, posicionamento de marca e páginas focadas em conversão
 - **Cibersegurança (em aprendizado):** boas práticas de segurança para aplicações web
 
 ---
